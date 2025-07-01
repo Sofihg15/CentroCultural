@@ -40,3 +40,8 @@ public class Instructor extends Persona {
     }
 }
 
+public enum ResponsableEquipo {
+    CENTRO,
+    INSTRUCTOR
+}
+
