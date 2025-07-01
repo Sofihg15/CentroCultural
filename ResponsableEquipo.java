@@ -8,7 +8,4 @@ package com.mycompany.centrocultural;
  *
  * @author almasofiahernandez
  */
-public enum ResponsableEquipo {
-    CENTRO,
-    INSTRUCTOR
-}
+
